@@ -1,0 +1,20 @@
+{
+  "name": "pageweaver",
+  "version": "0.0.1",
+  "description": "Make dream to page.🤣",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itibbers/pageweaver.git"
+  },
+  "author": "itibbers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itibbers/pageweaver/issues"
+  },
+  "homepage": "https://github.com/itibbers/pageweaver#readme"
+}
